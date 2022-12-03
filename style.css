@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+    background-color: rgb(182, 69, 163);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+}
+
+
+/*Estilos para título
+text-alig = alínea el texto
+color = cambia el color de letra
+font-weight = ancho de letra
+padding-top = padding de alto*/
+h1{
+    text-align: center;
+    color: rgba(240, 73, 176, 0.849);
+    font-weight: bolder;
+    padding-top: 30px;
+}
+
+
+/*Alineación texto e imagen biografia*/
+#biografia div{
+    margin: 0 auto;
+    width: 90%;
+    padding: 40px;
+
+;}
+
+/*color de fondo y de letra*/
+#discografia{
+    background-color: rgb(196, 22, 109);
+    color: rgb(142, 219, 19);
+    font-weight: bold;
+    text-align: center;
+}
+    
+
+
+#gallery{
+    padding: 10px;
+    text-aling: center;
+}
+#gallery img{
+    width: 200px;
+    margin: 5px;
+}
+
+/*Alineación de cards integrantes*/
+#integrantes {
+    padding: 5%;
+   margin: 0 auto;
+   text-align: center;
+ }
+    
+
+    
+
